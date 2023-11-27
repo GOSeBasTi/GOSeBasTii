@@ -1,0 +1,2 @@
+# GOSeBasTii
+Reposito GoSeBasTi
